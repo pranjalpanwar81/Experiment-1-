@@ -11,7 +11,7 @@ Theory ->  C++ is a high level object-oriented programming language. It is also 
            (B) Basic arithematic operations like addition, subtravtion, multiplication and division can be performed. 
                To take input from the user, we use "cin" command. <br>
                
-Output <br>
+Output 
 
 (A) <br> 
 ![exp1](https://github.com/Shloka-Patel/Experiment---1/blob/main/Output_1A.png)
