@@ -1,4 +1,4 @@
-# CDS-120-Exp-1
+# CDS-164-Exp-1
 
 Aim -> (A) To print hello world command. <br>
        (B) To make a calculator. <br>
