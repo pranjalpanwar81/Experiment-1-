@@ -4,8 +4,8 @@ Aim -> (A) To print hello world command.
        (B) To make a calculator. <br>
 
 Theory ->  C++ is a high level object-oriented programming language. It is also known as "C with class".<br> 
-           It was developed by Bjarne Stroustrup in 1979. <br>
-           It  implements all the OOPs concepts. <br>
+           It was developed by Bjarne Stroustrup in 1979. 
+           It  implements all the OOPs concepts. 
            It is a compiled language. <br>
            (A) To print an output in C++ we use cout command. <br>
                Syntax: cout<<value_to_print<<value_to_print; <br> 
