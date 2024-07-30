@@ -8,7 +8,7 @@ Theory ->  C++ is a high level object-oriented programming language. It is also 
            It is a compiled language. <br>
            (A) To print an output in C++ we use cout command. <br>
                
-           (B) Basic arithematic operations like addition, subtravtion, multiplication and division can be performed. <br> 
+           (B) Basic arithematic operations like addition, subtravtion, multiplication and division can be performed. 
                To take input from the user, we use "cin" command. <br>
                
 Output <br>
