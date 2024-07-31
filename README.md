@@ -1,4 +1,4 @@
-# Downloading and isntalling VS Code, (Hello World and Calculator Program).
+# Downloading and installing VS Code, (Hello World and Calculator Program).
 
 Aim -> Downloading and isntalling VS Code, (Hello World and Calculator Program).
 
