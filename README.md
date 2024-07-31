@@ -17,9 +17,11 @@ Syntax: cin>>value_to_be_entered;
 Output
 
 (A)
-https://github.com/Shloka-Patel/Experiment---1/raw/main/Output_1A.png
+![Output_1A (1)](https://github.com/user-attachments/assets/59488706-5af1-4792-bfa8-13a0187bbbf0)
+
 
 (B)
-https://github.com/Shloka-Patel/Experiment---1/raw/main/Output_1B.png
+![Output_1B (1)](https://github.com/user-attachments/assets/814d3fba-e7bb-45b9-a4b4-e6646ae4481d)
+
 
 Conclusion -> In this experiment, I learnt about C++ programming lnguage, its basic commands and also made a program for calculator.
