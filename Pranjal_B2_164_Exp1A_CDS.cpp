@@ -3,7 +3,7 @@
 // EXPERIMENT - 1(A) 
 
 #include<iostream>
-using namespace std;
+using namespace std
 int main()
 {
     cout<<"HELLO WORLD!";     //Output - HELLO WORLD!
